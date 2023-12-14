@@ -30,6 +30,7 @@
   display: block;
   margin-bottom: 8px;
 }
+Print("Hello World")
 
 .filter-options label input[type="checkbox"] {
   margin-right: 8px;
